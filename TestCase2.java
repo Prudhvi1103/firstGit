@@ -13,6 +13,8 @@ public class TestCase2 {
 			cart.add("Oil");
 			cart.add("Salt");
 			cart.add("Soap");
+			cart.add("Brush");
+
 			  	
 		}
 	public static void main (String[] args) {
