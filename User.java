@@ -21,7 +21,7 @@ public class User {
 int n2= sc.nextInt();
 for(int i=0;i<n2;i++)
 {
-	myCart.add(i-1);
+	myCart.add(i);
 }
 	}
 	else if(n==2) {
